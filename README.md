@@ -1,6 +1,6 @@
-My name is Jéssica, I'm 20 and I'm in the third computer engineering period at University of Campinas. 
-So far, I had a little contact with the programming world, so I dont't have an especific activity area.
-I'm very interested in learning and studying, so I started to make little projects using Recat Native, React JS and other tools releted with app and web development. 
-I also learned a bit of python, C and JS. 
-For now, I'm focoused in finishing my basic cycle semesters and learning foudantions concepts in computer science. After that, I hope to see a big picture about my interests and start building larger and more complex projects.
-My intention is to share projects made by me and see how I'm developing as a programmer.  
+Meu nome é Jéssica, tenho 20 anos e estou no terceiro período de engenharia da computação na Universidade Estadual de Campinas.
+Até o momento, tive um pouco de contato com o mundo da programação, então não tenho uma área de atuação específica.
+Estou muito interessada em aprender e estudar, então comecei a fazer pequenos projetos usando Recat Native, React JS e outras ferramentas relacionadas com desenvolvimento de aplicativos e web.
+Também aprendi um pouco de python, C e JS.
+Por enquanto, estou focado em terminar meus semestres do ciclo básico e aprender conceitos básicos em ciência da computação. Depois disso, espero ter uma visão geral dos meus interesses e começar a construir projetos maiores e mais complexos.
+Minha intenção é compartilhar projetos feitos por mim e ver como estou me desenvolvendo como programadora.
